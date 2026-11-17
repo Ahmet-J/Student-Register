@@ -1,4 +1,4 @@
-BCS 2204 - DATA STRUCTURES AND ALGORITHMS - GROUP COURSEWORK 1
+BSF 1303 - DATA STRUCTURES AND ALGORITHMS - GROUP COURSEWORK 1
 Scenario 6: Student Results Register (dynamic array with capacity doubling)
 Ahmed Jamal Ahmed
 VU-BSF-2503-1303-DAY
